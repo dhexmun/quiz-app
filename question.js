@@ -76,8 +76,8 @@ let questions = [
         question: "Which character is used to indicate an end tag?",
         answer: "/",
         Options: [
-            "<!>",
-            "<*>",
+            "!",
+            "*",
             "/",
             ">"
         ]
